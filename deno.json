@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@gsap/react": "npm:@gsap/react@^2.1.1",
+    "gsap": "npm:gsap@^3.12.5",
+    "react-router-dom": "npm:react-router-dom@^6.26.2"
+  }
+}
